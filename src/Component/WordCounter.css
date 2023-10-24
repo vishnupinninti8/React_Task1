@@ -1,0 +1,20 @@
+
+.col-md-7{
+    background-color: rgb(241, 235, 228);
+    margin-top: 140px;
+}
+h1{
+    margin: 25px;
+}
+.content{
+    padding: 20px 0 20px 90px;
+}
+textarea{
+    width: 80%;
+    border: 2px solid black;
+}
+span{
+    display: block;
+    margin-top: 20px;
+    font-weight: 500 ;
+}
